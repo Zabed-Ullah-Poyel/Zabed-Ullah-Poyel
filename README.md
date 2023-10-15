@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zabed Ullah Poyel</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
-<img align="right"alt="coding" width="400" src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e4783mxsmcpzvux3gb4l5cs45hs86rusiyrb42bfaq2&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right"alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zabed-ullah-poyel&label=Profile%20views&color=0e75b6&style=flat" alt="zabed-ullah-poyel" /> </p>
 
