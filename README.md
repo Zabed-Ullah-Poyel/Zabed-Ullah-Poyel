@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zabed-ullah-poyel&show_icons=true&locale=en" alt="zabed-ullah-poyel" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zabed-ullah-poyel&" alt="zabed-ullah-poyel" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zabed-ullah-poyel&" alt="zabed-ullah-poyel" /></p> 
