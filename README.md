@@ -1,4 +1,4 @@
-![logo](https://github.com/Zabed-Ullah-Poyel/Zabed-Ullah-Poyel/blob/main/Untitled%20design.png)
+![logo](https://github.com/Zabed-Ullah-Poyel/Zabed-Ullah-Poyel/blob/main/Untitled%20design%20(1).png)
 <h1 align="center">Hi 👋, I'm Zabed Ullah Poyel</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
